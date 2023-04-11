@@ -6,5 +6,5 @@ I work as a Senior Analyst at the Victorian Department of Health in Modelling an
 - 😄 Pronouns: she/her
 
 ## My CV
-
+My CV is located [here](https://github.com/cvanheer/CV)
 
