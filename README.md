@@ -6,6 +6,7 @@ I work as a Senior Analyst at the Victorian Department of Health in Modelling an
 - 😄 Pronouns: she/her
 - ✏️ My CV is located [here](https://github.com/cvanheer/CV)
 
-## Recent work:
+
+#### Recent work 
 - Recent work on [COVID-19 treatment effectiveness](https://theconversation.com/paxlovid-is-australias-first-line-covid-antiviral-but-lagevrio-also-prevents-severe-disease-in-over-70s-195349) - publication in progress 
 
