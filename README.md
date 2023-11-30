@@ -4,6 +4,7 @@ I am a slow-burning PhD student and statistical consultant / computational model
 - 📫 How to reach me: christinavanheer@gmail.com 
 - 😄 Pronouns: she/her
 - ✏️ My CV is located [here](https://github.com/cvanheer/CV) although it is not up to date
+- [Google Scholar](https://scholar.google.com/citations?user=f3IP8nkAAAAJ&hl=en)
 
 
 #### Recent work 
