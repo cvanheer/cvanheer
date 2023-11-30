@@ -1,5 +1,6 @@
 ### Hello there 👋
 I am a slow-burning PhD student in the Melbourne School of Psychological Sciences at The University of Melbourne. 
+I also work at a Statistical Consultant [email: christinavanheer@gmail.com]
 
 - 🧠 I’m currently working on finishing my PhD on how the brain deals with uncertainty 
 - 📫 How to reach me: christinavanheer@gmail.com 
