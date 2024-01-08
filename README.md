@@ -1,5 +1,5 @@
 ### Hello there 👋
-I am a slow-burning PhD student and statistical consultant / computational modeller. 
+I am a slow-burning PhD student and statistical consultant / computational modeller. I am broadly interested in modelling uncertainty in natural phenomena and health related processes, and I enjoy my work most when it helps other people.
 - 🧠 I’m currently working on finishing my PhD on how the brain deals with uncertainty in the Melbourne School of Psychological Sciences at The University of Melbourne. 
 - 📫 How to reach me: christinavanheer@gmail.com 
 - 😄 Pronouns: she/her
