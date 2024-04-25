@@ -4,7 +4,7 @@ I am a slow-burning PhD student and statistical consultant / computational model
 - 💊 I worked at the Vic Department of Health from 2021-2023 in the modelling and analytics team in the COVID-19 response. Some of the work I did included simple agent based models, and epideimiological modelling of COVID-19 related vaccine and treatment effectiveness. Before this, I worked at Monash Brain Imaging, and The University of Melbourne.
 - 📫 How to reach me: christinavanheer@gmail.com 
 - 😄 Pronouns: she/her
-- ✏️ My CV is located [here](https://github.com/cvanheer/CV) although it is not up to date
+- ✏️ My CV is located [here](https://github.com/cvanheer/CV) 
 - [Google Scholar](https://scholar.google.com/citations?user=f3IP8nkAAAAJ&hl=en)
 
 ### Recent work
