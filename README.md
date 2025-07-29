@@ -9,8 +9,8 @@ I am a slow-burning PhD student and statistical consultant / computational model
 - [Google Scholar](https://scholar.google.com/citations?user=f3IP8nkAAAAJ&hl=en)
 
 ### Recent work
-- In the first half of 2025 I worked with Dr Christina Howley Cape York Water Partnerships as a statistical consultant to help analyse whether pre-emptive burning in the Cape York Region has helped reduce fires in the late dry season. We ran some basic stats, some more advanced models. 
-- I spent December 2024 working with Dr Jeff Shellberg at [South Cape York Catchments](https://www.scyc.com.au), to model erosion in the Cape York region around the Great Barrier Reef
+- In the first half of 2025 I worked with [Dr Christina Howley](https://au.linkedin.com/in/christina-m-howley-68653b25) and Samantha Hobbs from Cape York Water Partnerships as a statistical consultant to help analyse whether pre-emptive burning in the Cape York Region has helped reduce fires in the late dry season. We ran some basic stats, some more advanced models, and I produced some reports, which contributed to a really 
+- I spent December 2024 working with Dr Jeff Shellberg at [South Cape York Catchments](https://www.scyc.com.au), modelling erosion in the Cape York region around the Great Barrier Reef
 - Our article on COVID-19 treatment effectiveness has now been published in The Lancet (Western Pacific) - you can read more [here](https://www.thelancet.com/journals/lanwpc/article/PIIS2666-6065(23)00235-3/fulltext)
 - Recent work on [COVID-19 treatment effectiveness](https://theconversation.com/paxlovid-is-australias-first-line-covid-antiviral-but-lagevrio-also-prevents-severe-disease-in-over-70s-195349) 
 - Submission to The Lancet, Western Pacific [pre-print here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4495142) as part of some work I did working in the Vic COVID response
